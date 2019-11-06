@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d13e041a2fe8a9e590d58bb0949f1de4",
+    "revision": "033b4ca4db44a88326b2367a37ad55bd",
     "url": "/philosophie/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/philosophie/static/css/2.b0bb7f2c.chunk.css"
   },
   {
-    "revision": "ce2326c7fca17f8d9a29",
+    "revision": "bef1ef879710194b168f",
     "url": "/philosophie/static/css/main.ddc0a635.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/philosophie/static/js/2.468057ae.chunk.js"
   },
   {
-    "revision": "ce2326c7fca17f8d9a29",
-    "url": "/philosophie/static/js/main.3418e632.chunk.js"
+    "revision": "bef1ef879710194b168f",
+    "url": "/philosophie/static/js/main.1dcb064e.chunk.js"
   },
   {
     "revision": "7814adb16f88da4aba86",

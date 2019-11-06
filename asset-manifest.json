@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/philosophie/static/css/main.ddc0a635.chunk.css",
-    "main.js": "/philosophie/static/js/main.3418e632.chunk.js",
-    "main.js.map": "/philosophie/static/js/main.3418e632.chunk.js.map",
+    "main.js": "/philosophie/static/js/main.1dcb064e.chunk.js",
+    "main.js.map": "/philosophie/static/js/main.1dcb064e.chunk.js.map",
     "runtime-main.js": "/philosophie/static/js/runtime-main.29e7bae4.js",
     "runtime-main.js.map": "/philosophie/static/js/runtime-main.29e7bae4.js.map",
     "static/css/2.b0bb7f2c.chunk.css": "/philosophie/static/css/2.b0bb7f2c.chunk.css",
     "static/js/2.468057ae.chunk.js": "/philosophie/static/js/2.468057ae.chunk.js",
     "static/js/2.468057ae.chunk.js.map": "/philosophie/static/js/2.468057ae.chunk.js.map",
     "index.html": "/philosophie/index.html",
-    "precache-manifest.a932d9824cac2da80583c06c028ce452.js": "/philosophie/precache-manifest.a932d9824cac2da80583c06c028ce452.js",
+    "precache-manifest.05e8896f0cd4787ceabbe0f6bd07d945.js": "/philosophie/precache-manifest.05e8896f0cd4787ceabbe0f6bd07d945.js",
     "service-worker.js": "/philosophie/service-worker.js",
     "static/css/2.b0bb7f2c.chunk.css.map": "/philosophie/static/css/2.b0bb7f2c.chunk.css.map",
     "static/css/main.ddc0a635.chunk.css.map": "/philosophie/static/css/main.ddc0a635.chunk.css.map",
@@ -28,6 +28,6 @@
     "static/css/2.b0bb7f2c.chunk.css",
     "static/js/2.468057ae.chunk.js",
     "static/css/main.ddc0a635.chunk.css",
-    "static/js/main.3418e632.chunk.js"
+    "static/js/main.1dcb064e.chunk.js"
   ]
 }
