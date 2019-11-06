@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "92e51be7a7f516209b1abd6027da2f2e",
+    "revision": "32b37a6929806a0d23064ef19ee48af3",
     "url": "/philosophie/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/philosophie/static/css/2.b0bb7f2c.chunk.css"
   },
   {
-    "revision": "d09c0e6a1471c515f722",
-    "url": "/philosophie/static/css/main.c93a25ba.chunk.css"
+    "revision": "03c5e7aa0ac9b21a3020",
+    "url": "/philosophie/static/css/main.20523e4e.chunk.css"
   },
   {
     "revision": "861fb112ce14616ff010",
     "url": "/philosophie/static/js/2.468057ae.chunk.js"
   },
   {
-    "revision": "d09c0e6a1471c515f722",
-    "url": "/philosophie/static/js/main.1dcb064e.chunk.js"
+    "revision": "03c5e7aa0ac9b21a3020",
+    "url": "/philosophie/static/js/main.bdcc15f8.chunk.js"
   },
   {
     "revision": "7814adb16f88da4aba86",
@@ -52,12 +52,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/philosophie/static/media/landing-page.75d69041.gif"
   },
   {
-    "revision": "36e705a112d91dfc173ed8afccb8f082",
-    "url": "/philosophie/static/media/loft.36e705a1.png"
+    "revision": "3b4414c9f6fff537abf7b540553df7ad",
+    "url": "/philosophie/static/media/loft.3b4414c9.png"
   },
   {
-    "revision": "afccb45fd05fc9f649888fa87641ac04",
-    "url": "/philosophie/static/media/love-la.afccb45f.png"
+    "revision": "1bdefdc5d0e5c32d14b846f447c2d7b8",
+    "url": "/philosophie/static/media/love-la.1bdefdc5.png"
   },
   {
     "revision": "4bf8dad379ab1388e0486017b69e46e7",

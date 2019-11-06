@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/philosophie/static/css/main.c93a25ba.chunk.css",
-    "main.js": "/philosophie/static/js/main.1dcb064e.chunk.js",
-    "main.js.map": "/philosophie/static/js/main.1dcb064e.chunk.js.map",
+    "main.css": "/philosophie/static/css/main.20523e4e.chunk.css",
+    "main.js": "/philosophie/static/js/main.bdcc15f8.chunk.js",
+    "main.js.map": "/philosophie/static/js/main.bdcc15f8.chunk.js.map",
     "runtime-main.js": "/philosophie/static/js/runtime-main.29e7bae4.js",
     "runtime-main.js.map": "/philosophie/static/js/runtime-main.29e7bae4.js.map",
     "static/css/2.b0bb7f2c.chunk.css": "/philosophie/static/css/2.b0bb7f2c.chunk.css",
     "static/js/2.468057ae.chunk.js": "/philosophie/static/js/2.468057ae.chunk.js",
     "static/js/2.468057ae.chunk.js.map": "/philosophie/static/js/2.468057ae.chunk.js.map",
     "index.html": "/philosophie/index.html",
-    "precache-manifest.1eb966cad7f38066f759f7ead30d756f.js": "/philosophie/precache-manifest.1eb966cad7f38066f759f7ead30d756f.js",
+    "precache-manifest.7e2da4c94675cac61345ab15e4162789.js": "/philosophie/precache-manifest.7e2da4c94675cac61345ab15e4162789.js",
     "service-worker.js": "/philosophie/service-worker.js",
     "static/css/2.b0bb7f2c.chunk.css.map": "/philosophie/static/css/2.b0bb7f2c.chunk.css.map",
-    "static/css/main.c93a25ba.chunk.css.map": "/philosophie/static/css/main.c93a25ba.chunk.css.map",
+    "static/css/main.20523e4e.chunk.css.map": "/philosophie/static/css/main.20523e4e.chunk.css.map",
     "static/media/index.css": "/philosophie/static/media/ui-card.022ae578.png",
     "static/media/databox-full.png": "/philosophie/static/media/databox-full.ebbd3db5.png",
     "static/media/hassle.png": "/philosophie/static/media/hassle.018bcbd1.png",
-    "static/media/love-la.png": "/philosophie/static/media/love-la.afccb45f.png",
+    "static/media/love-la.png": "/philosophie/static/media/love-la.1bdefdc5.png",
     "static/media/money.png": "/philosophie/static/media/money.4bf8dad3.png",
     "static/media/nasdaq-full.jpg": "/philosophie/static/media/nasdaq-full.078ece0c.jpg",
     "static/media/time.png": "/philosophie/static/media/time.e16697e6.png",
@@ -27,7 +27,7 @@
     "static/js/runtime-main.29e7bae4.js",
     "static/css/2.b0bb7f2c.chunk.css",
     "static/js/2.468057ae.chunk.js",
-    "static/css/main.c93a25ba.chunk.css",
-    "static/js/main.1dcb064e.chunk.js"
+    "static/css/main.20523e4e.chunk.css",
+    "static/js/main.bdcc15f8.chunk.js"
   ]
 }
